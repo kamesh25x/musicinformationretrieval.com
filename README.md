@@ -1,10 +1,12 @@
 **Updates (kamesh25x)
 
-Date: Jul 22, 2018
+Date: Jul 09, 2018
 
-    Forked from stevetjoa/stanford-mir now renamed to stevetjoa/musicinformationretrieval.com
-    Implemented the Jupyter notebooks again on Anaconda 4.5.4 & Python 3.6.
-    Updated the notebooks as required.
+    1. Forked from stevetjoa/stanford-mir now renamed to stevetjoa/musicinformationretrieval.com
+    
+    2. Implemented the Jupyter notebooks again on Anaconda 4.5.4 & Python 3.6.
+    
+    3. Updated the notebooks as required.
 
 
 musicinformationretrieval.com
